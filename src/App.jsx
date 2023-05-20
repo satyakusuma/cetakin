@@ -5,6 +5,7 @@ import About from './components/about/About'
 import Product from './components/product/Product.jsx'
 import Footer from './components/footer/Footer'
 import { Container } from 'react-bootstrap'
+import Detail from './components/detail/Detail.jsx'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <container-fluid>
         <NavBar/>
         <Home/>
+        <Detail/>
         <About/>
         <Product/>
         <Footer/>

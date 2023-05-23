@@ -35,7 +35,7 @@ function NavBar() {
           >
             <h5 className="space">Product</h5>
           </Nav.Link>
-          <Nav.Link href="https://wa.me/6282241065326#Contact">
+          <Nav.Link href="https://wa.me/62822123456789">
             <Button variant="dark">Contact</Button>
           </Nav.Link>
         </Nav>

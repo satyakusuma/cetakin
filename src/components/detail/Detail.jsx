@@ -22,7 +22,7 @@ function Detail() {
           </Col>
         </Row>
 
-        <Row className="justify-content-md-center">
+        <Row xs="auto" className="justify-content-center">
           <Col>
             <Card
               className="bg-warning border-warning text-white"
@@ -42,7 +42,7 @@ function Detail() {
               </Card.ImgOverlay>
             </Card>
           </Col>
-          <Col s={6}>
+          <Col>
             <Card
               className="bg-warning border-warning text-white"
               style={{ width: "379px" }}

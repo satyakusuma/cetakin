@@ -18,7 +18,7 @@ function Product() {
           </Col>
         </Row>
         <Row className="justify-content-center">
-          <Col xs>
+          <Col>
             <Card style={{ width: "18rem" }}>
               <Card.Img variant="top" src={ID} />
               <Card.Body>
